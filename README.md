@@ -1,2 +1,2 @@
 # curso-flask
-ejercicios del curso de flask
+ejercicios del curso de flask CLUBPROG
